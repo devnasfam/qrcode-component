@@ -6,9 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-
-  - [image1.jpj](#screenshot)
 
   - [https://dev-php-projects.000webhostapp.com/qrcode-component](#links)
 
@@ -20,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Author: Devnasfam](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
