@@ -1,1 +1,114 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.container{
+
+    width:100vw;
+
+    height:100vh;
+
+    background:hsl(212,45%,89%);
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+}
+
+.qr_container{
+
+    width:83%;
+
+    height:auto;
+
+    background:#FFF;
+
+    border-radius:20px;
+
+    padding:15px;
+
+    box-shadow:10px 10px 20px rgba(0,0,0,.1),-10px -10px 20px rgba(0,0,0,.1);
+
+}
+
+.qr_code{
+
+    width: 100%;
+
+    height:280px;
+
+    border-radius:10px;
+
+    background-size:cover;
+
+    margin:0 auto;
+
+   /* object-fit:contain;*/
+
+    /*aspect-ratio:3/2;*/
+
+}
+
+.improve{
+
+    font-size:22px;
+
+    font-weight:700;
+
+    width:100%;
+
+    color:hsl(218, 44%, 22%);
+
+    margin:25px 0;
+
+}
+
+.scan{
+
+    font-size:15px;
+
+    font-weight:400;
+
+    width:100%;
+
+    color:hsl(220, 15%, 55%);
+
+    margin:30px 0;
+
+    margin-bottom:20px;
+
+}
+
+@media screen and (min-width:400px){
+
+    .qr_container{
+
+        width:370px;
+
+        height:auto;
+
+    }
+
+    .qr_code{
+
+        width:340px;
+
+        height:320px;
+
+    }
+
+}
