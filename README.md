@@ -32,9 +32,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL](https://dev-qrcode.netlify.app/)
+- Solution URL: [Frontend Mentor](https://dev-qrcode.netlify.app/)
 
-- Live Site URL: [Add live site URL here](https://dev-qrcode.netlify.app/)
+- Live Site URL: [dev qr code](https://dev-qrcode.netlify.app/)
 
 ### What I learned
 
